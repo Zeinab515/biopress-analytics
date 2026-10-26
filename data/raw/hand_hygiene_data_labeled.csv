@@ -1,0 +1,918 @@
+﻿Ward,Profcat,Shift,Opp,Indication,HHaction,Missedbutglove,Complied
+Surgical,Medical doctor,Morning,1,Before patient contact,,No,No
+Surgical,Nurse,Morning,2,Before patient contact,,No,No
+Surgical,Other,Morning,3,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Morning,4,After patient contact,,No,No
+Surgical,Nurse,Morning,5,Before an aseptic procedure,,Yes,No
+Surgical,Other,Morning,6,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,Morning,7,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,8,After body fluid exposure,,No,No
+Surgical,Other,Morning,9,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,10,Before patient contact,,No,No
+Surgical,Nurse,Morning,11,Before an aseptic procedure,,Yes,No
+Surgical,Other,Morning,12,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,Morning,13,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Morning,14,After patient contact,,No,No
+Surgical,Medical doctor,Morning,15,Before patient contact,,No,No
+Surgical,Nurse,Morning,16,Before patient contact,,No,No
+Surgical,Medical doctor,Morning,17,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Morning,18,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,19,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,20,After patient contact,,No,No
+Surgical,Medical doctor,Morning,21,Before patient contact,,No,No
+Surgical,Nurse,Morning,22,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Medical doctor,Morning,23,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Morning,24,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,Morning,25,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,26,After patient contact,,No,No
+Surgical,Medical doctor,Morning,27,Before patient contact,,No,No
+Surgical,Nurse,Morning,28,Before patient contact,,No,No
+Surgical,Medical doctor,Morning,29,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,30,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,31,Before patient contact,,No,No
+Surgical,Nurse,Morning,32,After body fluid exposure,,No,No
+Surgical,Nurse,Morning,33,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,34,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Morning,35,After patient contact,,No,No
+Surgical,Medical doctor,Morning,36,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,After noon,37,Before patient contact,,No,No
+Surgical,Nurse,After noon,38,Before patient contact,,No,No
+Surgical,Other,After noon,39,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,40,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,41,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,42,After patient contact,HR (hand rub),,Yes
+Surgical,Nurse,After noon,43,After contact with patient Surroundings,HR (hand rub),,Yes
+Surgical,Medical doctor,After noon,44,Before patient contact,,No,No
+Surgical,Nurse,After noon,45,Before patient contact,,No,No
+Surgical,Medical doctor,After noon,46,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,47,After body fluid exposure,,Yes,No
+Surgical,Nurse,After noon,48,Before patient contact,,No,No
+Surgical,Nurse,After noon,49,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,50,After patient contact,HR (hand rub),,Yes
+Surgical,Nurse,After noon,51,Before patient contact,,No,No
+Surgical,Nurse,After noon,52,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,After noon,53,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,54,After body fluid exposure,,Yes,No
+Surgical,Nurse,After noon,55,After contact with patient Surroundings,,No,No
+Surgical,Nurse,After noon,56,Before patient contact,,No,No
+Surgical,Nurse,After noon,57,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,58,Before patient contact,,No,No
+Surgical,Nurse,After noon,59,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,60,After body fluid exposure,,No,No
+Surgical,Nurse,After noon,61,After contact with patient Surroundings,HR (hand rub),,Yes
+Surgical,Nurse,After noon,62,Before patient contact,,No,No
+Surgical,Medical doctor,Night,63,Before patient contact,,No,No
+Surgical,Nurse,Night,64,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Night,65,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,66,Before patient contact,,No,No
+Surgical,Nurse,Night,67,After contact with patient Surroundings,HR (hand rub),,Yes
+Surgical,Medical doctor,After noon,68,Before patient contact,,No,No
+Surgical,Nurse,After noon,69,Before patient contact,,No,No
+Surgical,Other,After noon,70,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,71,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,72,Before an aseptic procedure,,Yes,No
+Surgical,Other,After noon,73,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,After noon,74,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,After noon,75,Before patient contact,,No,No
+Paediatric,Nurse,After noon,76,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,After noon,77,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,Morning,78,Before patient contact,,No,No
+NICU,Nurse,Morning,79,Before patient contact,,Yes,No
+NICU,Medical doctor,Morning,80,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,81,After patient contact,HW (hand wash),,Yes
+NICU,Nurse,Morning,82,Before patient contact,,No,No
+NICU,Nurse,Morning,83,After contact with patient Surroundings,,No,No
+NICU,Nurse,Morning,84,After patient contact,HR (hand rub),,Yes
+NICU,Medical doctor,Morning,85,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,86,Before an aseptic procedure,,Yes,No
+NICU,Nurse,Morning,87,After contact with patient Surroundings,,No,No
+NICU,Nurse,Morning,88,After patient contact,,No,No
+NICU,Nurse,Morning,89,Before an aseptic procedure,,Yes,No
+NICU,Nurse,Morning,90,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,91,Before patient contact,HW (hand wash),,Yes
+NICU,Nurse,Morning,92,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,93,After contact with patient Surroundings,,Yes,No
+NICU,Nurse,Morning,94,Before patient contact,,Yes,No
+NICU,Nurse,Morning,95,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,96,Before patient contact,,Yes,No
+NICU,Nurse,Morning,97,After contact with patient Surroundings,,No,No
+NICU,Nurse,Morning,98,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,99,Before an aseptic procedure,,Yes,No
+NICU,Nurse,Morning,100,After patient contact,HR (hand rub),,Yes
+NICU,Medical doctor,Morning,101,Before patient contact,,Yes,No
+NICU,Nurse,After noon,102,Before patient contact,,Yes,No
+NICU,Medical doctor,After noon,103,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,104,After patient contact,HR (hand rub),,Yes
+NICU,Medical doctor,Morning,105,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,106,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,Morning,107,After contact with patient Surroundings,,No,No
+NICU,Nurse,Morning,108,Before patient contact,,No,No
+NICU,Medical doctor,Morning,109,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,110,Before an aseptic procedure,,Yes,No
+NICU,Medical doctor,Morning,111,Before patient contact,,Yes,No
+NICU,Nurse,Morning,112,Before an aseptic procedure,,Yes,No
+NICU,Medical doctor,After noon,113,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Morning,114,After patient contact,HR (hand rub),,Yes
+NICU,Medical doctor,After noon,115,Before an aseptic procedure,,Yes,No
+NICU,Nurse,After noon,116,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,After noon,117,After patient contact,,Yes,No
+NICU,Nurse,After noon,118,Before patient contact,,Yes,No
+NICU,Medical doctor,After noon,119,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,After noon,120,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,After noon,121,Before patient contact,,Yes,No
+NICU,Nurse,After noon,122,Before patient contact,,No,No
+NICU,Medical doctor,After noon,123,After contact with patient Surroundings,,No,No
+NICU,Nurse,After noon,124,Before an aseptic procedure,,Yes,No
+NICU,Medical doctor,After noon,125,After patient contact,,No,No
+NICU,Nurse,After noon,126,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,After noon,127,After patient contact,,No,No
+NICU,Nurse,After noon,128,Before an aseptic procedure,,Yes,No
+NICU,Medical doctor,After noon,129,Before patient contact,,Yes,No
+NICU,Nurse,After noon,130,After patient contact,,No,No
+NICU,Medical doctor,After noon,131,After patient contact,,No,No
+NICU,Nurse,After noon,132,Before an aseptic procedure,,Yes,No
+NICU,Medical doctor,After noon,133,After contact with patient Surroundings,,No,No
+NICU,Nurse,After noon,134,After patient contact,HR (hand rub),,Yes
+NICU,Medical doctor,After noon,135,Before an aseptic procedure,,Yes,No
+NICU,Nurse,After noon,136,After contact with patient Surroundings,,No,No
+NICU,Medical doctor,After noon,137,After contact with patient Surroundings,,No,No
+NICU,Nurse,After noon,138,Before patient contact,,Yes,No
+NICU,Nurse,After noon,139,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Night,140,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Night,141,Before patient contact,,Yes,No
+NICU,Nurse,Night,142,After patient contact,HR (hand rub),,Yes
+NICU,Nurse,Night,143,After contact with patient Surroundings,,Yes,No
+NICU,Nurse,Night,144,Before patient contact,,No,No
+NICU,Medical doctor,Night,145,Before patient contact,,No,No
+NICU,Nurse,Night,146,Before patient contact,,Yes,No
+NICU,Medical doctor,Night,147,After patient contact,,No,No
+NICU,Nurse,Night,148,After patient contact,,No,No
+NICU,Medical doctor,Night,149,Before patient contact,,Yes,No
+NICU,Nurse,Night,150,Before an aseptic procedure,,No,No
+NICU,Medical doctor,Night,151,After patient contact,,No,No
+NICU,Nurse,Night,152,Before patient contact,,No,No
+NICU,Medical doctor,Night,153,Before an aseptic procedure,,Yes,No
+NICU,Nurse,Night,154,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,155,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,156,Before patient contact,,Yes,No
+Ob/Gyn,Other,Morning,157,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,158,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,159,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Other,Morning,160,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,161,After patient contact,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,162,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,163,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,164,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,165,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,166,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,167,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,168,After contact with patient Surroundings,,No,No
+Ob/Gyn,Other,Morning,169,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,170,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,171,Before patient contact,,Yes,No
+Ob/Gyn,Other,Morning,172,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,173,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,174,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,175,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,176,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,177,Before patient contact,,Yes,No
+Ob/Gyn,Other,Morning,178,Before patient contact,,No,No
+Ob/Gyn,Midwife,Morning,179,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Morning,180,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,181,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,182,After patient contact,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,183,After contact with patient Surroundings,,No,No
+Ob/Gyn,Other,Morning,184,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,185,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,186,Before patient contact,,Yes,No
+Ob/Gyn,Other,Morning,187,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,188,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,189,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Other,Morning,190,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,191,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,192,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,193,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,194,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,195,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Morning,196,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,197,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,198,After contact with patient Surroundings,,No,No
+Ob/Gyn,Other,Morning,199,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,200,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,201,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,202,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,203,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,204,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,205,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,206,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Morning,207,After body fluid exposure,HR (hand rub),,Yes
+Ob/Gyn,Midwife,Morning,208,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,Morning,209,After body fluid exposure,HR (hand rub),,Yes
+Paediatric,Medical doctor,Morning,210,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,211,Before patient contact,,Yes,No
+Paediatric,Other,Morning,212,Before patient contact,,Yes,No
+Paediatric,Medical doctor,After noon,213,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,214,Before an aseptic procedure,,Yes,No
+Paediatric,Other,After noon,215,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,After noon,216,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,After noon,217,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Other,After noon,218,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,After noon,219,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,220,Before patient contact,,Yes,No
+Paediatric,Other,After noon,221,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,After noon,222,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,223,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Other,After noon,224,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,225,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,After noon,226,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,After noon,227,Before an aseptic procedure,,No,No
+Ob/Gyn,Medical doctor,After noon,228,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,229,After body fluid exposure,HR (hand rub),,Yes
+Ob/Gyn,Medical doctor,After noon,230,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,After noon,231,After patient contact,HR (hand rub),,Yes
+Ob/Gyn,Medical doctor,After noon,232,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,After noon,233,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,234,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,235,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,236,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,After noon,237,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,238,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,After noon,239,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,After noon,240,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,241,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,242,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,243,After contact with patient Surroundings,,No,No
+Ob/Gyn,Nurse,After noon,244,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,245,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,After noon,246,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,After noon,247,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,248,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,249,After body fluid exposure,HR (hand rub),,Yes
+Ob/Gyn,Medical doctor,After noon,250,After body fluid exposure,HR (hand rub),,Yes
+Ob/Gyn,Midwife,After noon,251,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,252,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,253,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,254,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Night,255,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Night,256,Before patient contact,,Yes,No
+Ob/Gyn,Other,Night,257,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Night,258,Before an aseptic procedure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Night,259,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Other,Night,260,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Night,261,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Night,262,After contact with patient Surroundings,,No,No
+Ob/Gyn,Other,Night,263,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Night,264,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Night,265,After body fluid exposure,,No,No
+Ob/Gyn,Other,Night,266,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Night,267,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Night,268,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Night,269,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Night,270,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Night,271,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Night,272,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Night,273,After patient contact,HR (hand rub),,Yes
+Ob/Gyn,Medical doctor,Night,274,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Night,275,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Night,276,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Morning,277,Before patient contact,,No,No
+Medical,Nurse,Morning,278,Before patient contact,,No,No
+Medical,Other,Morning,279,Before patient contact,,Yes,No
+Medical,Medical doctor,Morning,280,After patient contact,HW (hand wash),,Yes
+Medical,Nurse,Morning,281,After contact with patient Surroundings,,No,No
+Medical,Other,Morning,282,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,283,Before patient contact,,No,No
+Medical,Nurse,Morning,284,Before patient contact,,No,No
+Medical,Medical doctor,Morning,285,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,286,Before an aseptic procedure,,Yes,No
+Medical,Other,Morning,287,Before patient contact,,No,No
+Medical,Medical doctor,Morning,288,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,Morning,289,After contact with patient Surroundings,,No,No
+Medical,Other,Morning,290,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,291,Before patient contact,,Yes,No
+Medical,Nurse,Morning,292,Before patient contact,,No,No
+Medical,Nurse,Morning,293,Before an aseptic procedure,HR (hand rub),,Yes
+Medical,Nurse,Morning,294,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,295,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,Morning,296,After patient contact,HR (hand rub),,Yes
+Medical,Medical doctor,Morning,297,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,298,Before patient contact,,No,No
+Medical,Medical doctor,Morning,299,After body fluid exposure,HR (hand rub),,Yes
+Medical,Nurse,Morning,300,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Morning,301,Before patient contact,,No,No
+Medical,Nurse,Morning,302,Before patient contact,,No,No
+Medical,Medical doctor,Morning,303,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,304,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,305,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,Morning,306,After body fluid exposure,HW (hand wash),,Yes
+Medical,Medical doctor,Morning,307,Before patient contact,,No,No
+Medical,Nurse,Morning,308,Before patient contact,,No,No
+Medical,Medical doctor,Morning,309,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,310,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Morning,311,After body fluid exposure,HW (hand wash),,Yes
+Medical,Medical doctor,Morning,312,After patient contact,HR (hand rub),,Yes
+Medical,Medical doctor,Morning,313,Before patient contact,,No,No
+Medical,Nurse,Morning,314,Before patient contact,,No,No
+Medical,Medical doctor,Morning,315,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,316,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,317,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,Morning,318,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,After noon,319,Before patient contact,,No,No
+Paediatric,Nurse,After noon,320,Before patient contact,,No,No
+Paediatric,Other,After noon,321,Before patient contact,,No,No
+Paediatric,Medical doctor,After noon,322,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,323,After contact with patient Surroundings,,No,No
+Paediatric,Other,After noon,324,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,After noon,325,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,326,Before patient contact,,No,No
+Paediatric,Other,After noon,327,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,After noon,328,After body fluid exposure,HR (hand rub),,Yes
+Paediatric,Nurse,After noon,329,After patient contact,HR (hand rub),,Yes
+Paediatric,Other,After noon,330,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,331,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,After noon,332,Before patient contact,,No,No
+Paediatric,Nurse,After noon,333,Before an aseptic procedure,,No,No
+Paediatric,Medical doctor,After noon,334,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,335,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,After noon,336,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,After noon,337,After patient contact,HR (hand rub),,Yes
+Paediatric,Medical doctor,After noon,338,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,339,Before patient contact,,No,No
+Paediatric,Medical doctor,After noon,340,After contact with patient Surroundings,,Yes,No
+Paediatric,Nurse,After noon,341,After patient contact,HR (hand rub),,Yes
+Paediatric,Medical doctor,After noon,342,Before patient contact,,No,No
+Paediatric,Nurse,After noon,343,Before patient contact,,No,No
+Paediatric,Medical doctor,After noon,344,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,After noon,345,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,After noon,346,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,After noon,347,Before patient contact,,No,No
+Paediatric,Medical doctor,After noon,348,Before patient contact,,No,No
+Paediatric,Nurse,After noon,349,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,After noon,350,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,After noon,351,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,Morning,352,Before patient contact,,No,No
+Paediatric,Nurse,Morning,353,Before patient contact,,No,No
+Paediatric,Other,Night,354,Before patient contact,,No,No
+Paediatric,Medical doctor,Morning,355,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,356,Before an aseptic procedure,,Yes,No
+Paediatric,Other,Morning,357,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Morning,358,After body fluid exposure,HR (hand rub),,Yes
+Paediatric,Nurse,Night,359,After body fluid exposure,HR (hand rub),,Yes
+Paediatric,Medical doctor,Night,360,Before patient contact,,No,No
+Paediatric,Nurse,Night,361,Before patient contact,,No,No
+Paediatric,Other,Night,362,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,363,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Night,364,After contact with patient Surroundings,,No,No
+Paediatric,Other,Night,365,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Night,366,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,367,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,Night,368,Before patient contact,,No,No
+Paediatric,Nurse,Night,369,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,370,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Night,371,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Night,372,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Night,373,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,Night,374,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,375,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,376,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Night,377,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Night,378,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,Night,379,Before patient contact,,No,No
+Paediatric,Nurse,Night,380,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,381,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Night,382,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,383,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,Morning,384,Before patient contact,,Yes,No
+Ob/Gyn,Nurse,Morning,385,Before patient contact,,No,No
+Ob/Gyn,Midwife,Morning,386,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,387,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Nurse,Morning,388,After patient contact,,No,No
+Ob/Gyn,Midwife,Morning,389,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Medical doctor,Morning,390,After body fluid exposure,,No,No
+Ob/Gyn,Nurse,Morning,391,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,392,After patient contact,,No,No
+Ob/Gyn,Medical doctor,Morning,393,After patient contact,,No,No
+Ob/Gyn,Nurse,Morning,394,Before patient contact,,No,No
+Ob/Gyn,Midwife,Morning,395,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Morning,396,Before patient contact,,No,No
+Ob/Gyn,Nurse,Night,397,After patient contact,,No,No
+Ob/Gyn,Midwife,Morning,398,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Night,399,Before an aseptic procedure,,No,No
+Ob/Gyn,Nurse,Night,400,Before patient contact,,No,No
+Ob/Gyn,Midwife,Night,401,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Night,402,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Nurse,Night,403,After patient contact,,No,No
+Ob/Gyn,Midwife,Night,404,After body fluid exposure,,Yes,No
+Ob/Gyn,Medical doctor,Night,405,Before patient contact,,No,No
+Ob/Gyn,Nurse,Night,406,Before patient contact,,No,No
+Ob/Gyn,Midwife,Night,407,After patient contact,,No,No
+Ob/Gyn,Medical doctor,Night,408,After patient contact,,No,No
+Ob/Gyn,Nurse,Night,409,Before an aseptic procedure,,No,No
+Ob/Gyn,Midwife,Night,410,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Night,411,After contact with patient Surroundings,,No,No
+Ob/Gyn,Nurse,Morning,412,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,Morning,413,Before patient contact,,Yes,No
+Ob/Gyn,Nurse,Night,414,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,415,After body fluid exposure,,Yes,No
+Ob/Gyn,Nurse,Night,416,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,417,After patient contact,,No,No
+Ob/Gyn,Nurse,Morning,418,After body fluid exposure,,Yes,No
+Ob/Gyn,Medical doctor,Morning,419,After contact with patient Surroundings,,No,No
+Ob/Gyn,Nurse,Morning,420,After patient contact,,Yes,No
+Ob/Gyn,Medical doctor,Morning,421,Before patient contact,,Yes,No
+Ob/Gyn,Nurse,After noon,422,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,423,Before an aseptic procedure,,No,No
+Ob/Gyn,Nurse,After noon,424,Before patient contact,,Yes,No
+Ob/Gyn,Medical doctor,After noon,425,After patient contact,,No,No
+Ob/Gyn,Nurse,After noon,426,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,427,Before patient contact,,No,No
+Ob/Gyn,Nurse,After noon,428,After patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,429,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Nurse,After noon,430,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,431,After patient contact,,No,No
+Ob/Gyn,Nurse,After noon,432,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,433,Before patient contact,,No,No
+Ob/Gyn,Nurse,After noon,434,Before patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,435,After patient contact,,No,No
+Ob/Gyn,Nurse,After noon,436,After patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,437,After contact with patient Surroundings,,No,No
+Ob/Gyn,Nurse,After noon,438,After contact with patient Surroundings,,No,No
+Ob/Gyn,Medical doctor,After noon,439,Before patient contact,,Yes,No
+Ob/Gyn,Nurse,After noon,440,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,441,After patient contact,,Yes,No
+Medical,Medical doctor,After noon,442,Before patient contact,,Yes,No
+Medical,Nurse,After noon,443,Before patient contact,,Yes,No
+Medical,Other,After noon,444,Before patient contact,,Yes,No
+Medical,Medical doctor,After noon,445,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,446,Before an aseptic procedure,,Yes,No
+Medical,Other,After noon,447,After body fluid exposure,,Yes,No
+Medical,Medical doctor,After noon,448,After body fluid exposure,,Yes,No
+Medical,Nurse,After noon,449,After patient contact,,Yes,No
+Medical,Other,After noon,450,After body fluid exposure,,Yes,No
+Medical,Medical doctor,After noon,451,After patient contact,,No,No
+Medical,Nurse,After noon,452,After contact with patient Surroundings,,Yes,No
+Medical,Other,After noon,453,After patient contact,,No,No
+Medical,Medical doctor,After noon,454,Before patient contact,,No,No
+Medical,Nurse,After noon,455,Before patient contact,,No,No
+Medical,Medical doctor,After noon,456,Before an aseptic procedure,,No,No
+Medical,Nurse,After noon,457,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,After noon,458,After patient contact,,No,No
+Medical,Nurse,After noon,459,After patient contact,,Yes,No
+Medical,Medical doctor,After noon,460,Before patient contact,,No,No
+Medical,Nurse,After noon,461,After contact with patient Surroundings,,Yes,No
+Medical,Medical doctor,After noon,462,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,463,Before patient contact,,No,No
+Medical,Medical doctor,After noon,464,After body fluid exposure,,Yes,No
+Medical,Nurse,After noon,465,After patient contact,,Yes,No
+Medical,Medical doctor,After noon,466,After patient contact,,Yes,No
+Medical,Nurse,After noon,467,After patient contact,,No,No
+Medical,Nurse,After noon,468,After contact with patient Surroundings,,No,No
+Medical,Nurse,After noon,469,Before patient contact,,No,No
+Medical,Nurse,After noon,470,Before an aseptic procedure,,No,No
+Medical,Nurse,After noon,471,After patient contact,,No,No
+Medical,Medical doctor,Night,472,Before patient contact,,No,No
+Medical,Nurse,Night,473,Before patient contact,,No,No
+Medical,Medical doctor,Night,474,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Night,475,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Night,476,After patient contact,,No,No
+Medical,Nurse,Night,477,After patient contact,,No,No
+Medical,Medical doctor,Night,478,Before patient contact,,No,No
+Medical,Nurse,Night,479,Before patient contact,,Yes,No
+Medical,Medical doctor,Night,480,After body fluid exposure,,Yes,No
+Medical,Nurse,Night,481,After body fluid exposure,,Yes,No
+Medical,Medical doctor,Night,482,After patient contact,,No,No
+Medical,Nurse,Night,483,After patient contact,,No,No
+Medical,Medical doctor,Night,484,Before patient contact,,Yes,No
+Medical,Nurse,Night,485,Before patient contact,,No,No
+Medical,Medical doctor,Night,486,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Night,487,Before an aseptic procedure,,No,No
+Medical,Medical doctor,Night,488,After patient contact,,No,No
+Medical,Nurse,Night,489,After patient contact,,No,No
+Medical,Medical doctor,Night,490,After contact with patient Surroundings,,No,No
+Medical,Nurse,Night,491,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Night,492,Before patient contact,,No,No
+Medical,Nurse,Night,493,Before patient contact,,No,No
+Medical,Medical doctor,Night,494,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Night,495,Before an aseptic procedure,,No,No
+Medical,Medical doctor,Night,496,After patient contact,,No,No
+Medical,Nurse,Night,497,After contact with patient Surroundings,,No,No
+Medical,Nurse,Night,498,Before patient contact,,No,No
+Medical,Nurse,Night,499,After body fluid exposure,,Yes,No
+Medical,Medical doctor,After noon,500,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,501,Before patient contact,,No,No
+Medical,Medical doctor,After noon,502,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,503,After body fluid exposure,HW (hand wash),,Yes
+Medical,Medical doctor,After noon,504,After contact with patient Surroundings,,No,No
+Medical,Nurse,After noon,505,Before patient contact,,Yes,No
+Medical,Medical doctor,After noon,506,After patient contact,,Yes,No
+Medical,Nurse,After noon,507,After patient contact,,No,No
+Medical,Medical doctor,After noon,508,Before patient contact,,No,No
+Paediatric,Nurse,Morning,509,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,510,After patient contact,,No,No
+Paediatric,Nurse,Morning,511,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,512,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,513,After patient contact,,No,No
+Paediatric,Nurse,After noon,514,Before patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,After noon,515,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,After noon,516,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,After noon,517,Before patient contact,,Yes,No
+Paediatric,Nurse,After noon,518,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,519,Before patient contact,,Yes,No
+Paediatric,Nurse,After noon,520,After patient contact,,No,No
+Paediatric,Nurse,After noon,521,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,522,Before an aseptic procedure,,No,No
+Paediatric,Nurse,After noon,523,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,Night,524,Before patient contact,,No,No
+Paediatric,Nurse,Night,525,Before patient contact,,Yes,No
+Paediatric,Medical doctor,Night,526,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,Night,527,After patient contact,HR (hand rub),,Yes
+Paediatric,Medical doctor,Night,528,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Night,529,After patient contact,,No,No
+Paediatric,Medical doctor,Morning,530,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,531,Before patient contact,,Yes,No
+Paediatric,Medical doctor,Morning,532,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,533,After patient contact,HR (hand rub),,Yes
+Paediatric,Medical doctor,Morning,534,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Morning,535,After patient contact,,No,No
+Paediatric,Medical doctor,Night,536,Before patient contact,,No,No
+Paediatric,Nurse,Night,537,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,538,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Night,539,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Night,540,Before patient contact,,No,No
+Paediatric,Medical doctor,Morning,541,Before patient contact,,No,No
+Paediatric,Nurse,Morning,542,Before patient contact,,No,No
+Paediatric,Medical doctor,Morning,543,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,544,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,545,After patient contact,,No,No
+Paediatric,Nurse,Morning,546,After patient contact,,No,No
+Paediatric,Nurse,Morning,547,Before an aseptic procedure,HR (hand rub),,Yes
+Paediatric,Medical doctor,Night,548,Before patient contact,,No,No
+Paediatric,Nurse,Night,549,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,550,After patient contact,,No,No
+Paediatric,Nurse,Night,551,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,Night,552,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,553,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,Night,554,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Night,555,After patient contact,HW (hand wash),,Yes
+Paediatric,Medical doctor,Night,556,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,Night,557,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Medical doctor,Morning,558,Before patient contact,,No,No
+Paediatric,Nurse,Morning,559,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,560,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,561,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,562,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,563,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,Morning,564,Before patient contact,,No,No
+Surgical,Nurse,Morning,565,Before patient contact,,No,No
+Surgical,Other,Morning,566,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Morning,567,After patient contact,,No,No
+Surgical,Nurse,Morning,568,Before an aseptic procedure,,Yes,No
+Surgical,Other,Morning,569,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,Morning,570,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,571,After body fluid exposure,,No,No
+Surgical,Other,Morning,572,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,573,Before patient contact,,No,No
+Surgical,Nurse,Morning,574,Before an aseptic procedure,,Yes,No
+Surgical,Other,Morning,575,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,Morning,576,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Morning,577,After patient contact,,No,No
+Surgical,Medical doctor,Morning,578,Before patient contact,,No,No
+Surgical,Nurse,Morning,579,Before patient contact,,No,No
+Surgical,Medical doctor,Morning,580,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Morning,581,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,582,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,583,After patient contact,,No,No
+Surgical,Medical doctor,Morning,584,Before patient contact,,No,No
+Surgical,Nurse,Morning,585,After body fluid exposure,,Yes,No
+Surgical,Medical doctor,Morning,586,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Morning,587,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,Morning,588,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,589,After patient contact,,No,No
+Surgical,Medical doctor,Morning,590,Before patient contact,,No,No
+Surgical,Nurse,Morning,591,Before patient contact,,No,No
+Surgical,Medical doctor,Morning,592,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,593,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,594,Before patient contact,,No,No
+Surgical,Nurse,Morning,595,After body fluid exposure,,No,No
+Surgical,Medical doctor,Morning,596,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,Morning,597,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Morning,598,After patient contact,,No,No
+Surgical,Medical doctor,Morning,599,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,After noon,600,Before patient contact,,No,No
+Surgical,Nurse,After noon,601,Before patient contact,,No,No
+Surgical,Other,After noon,602,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,603,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,604,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,605,After patient contact,HR (hand rub),,Yes
+Surgical,Nurse,After noon,606,After contact with patient Surroundings,HR (hand rub),,Yes
+Surgical,Medical doctor,After noon,607,Before patient contact,,No,No
+Surgical,Nurse,After noon,608,Before patient contact,,No,No
+Surgical,Medical doctor,After noon,609,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,610,After body fluid exposure,,Yes,No
+Surgical,Nurse,After noon,611,Before patient contact,,No,No
+Surgical,Nurse,After noon,612,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,613,After patient contact,HR (hand rub),,Yes
+Surgical,Nurse,After noon,614,Before patient contact,,No,No
+Surgical,Nurse,After noon,615,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,After noon,616,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,617,After body fluid exposure,,Yes,No
+Surgical,Nurse,After noon,618,After contact with patient Surroundings,,No,No
+Surgical,Nurse,After noon,619,Before patient contact,,No,No
+Surgical,Nurse,After noon,620,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,621,Before patient contact,,No,No
+Surgical,Nurse,After noon,622,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,623,After body fluid exposure,,No,No
+Surgical,Nurse,After noon,624,After contact with patient Surroundings,HR (hand rub),,Yes
+Surgical,Nurse,After noon,625,Before patient contact,,No,No
+Surgical,Medical doctor,Night,626,Before patient contact,,No,No
+Surgical,Nurse,Night,627,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,Night,628,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,629,Before patient contact,,No,No
+Surgical,Nurse,Night,630,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,After noon,631,Before patient contact,,No,No
+Surgical,Nurse,After noon,632,Before patient contact,,No,No
+Surgical,Other,After noon,633,Before an aseptic procedure,,Yes,No
+Surgical,Medical doctor,After noon,634,Before an aseptic procedure,,Yes,No
+Surgical,Nurse,After noon,635,Before an aseptic procedure,,Yes,No
+Surgical,Other,After noon,636,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Medical doctor,After noon,637,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,After noon,638,Before patient contact,,No,No
+Surgical,Nurse,After noon,639,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,After noon,640,After contact with patient Surroundings,,No,No
+Medical,Nurse,Morning,641,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,Morning,642,Before patient contact,,Yes,No
+Medical,Nurse,Morning,643,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Morning,644,Before patient contact,,Yes,No
+Medical,Nurse,Morning,645,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,646,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,647,After body fluid exposure,HR (hand rub),,Yes
+Medical,Medical doctor,Morning,648,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,649,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Morning,650,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Morning,651,After patient contact,HW (hand wash),,Yes
+Medical,Medical doctor,Morning,652,After patient contact,,Yes,No
+Medical,Nurse,Morning,653,After patient contact,,No,No
+Medical,Nurse,Morning,654,After contact with patient Surroundings,,No,No
+Medical,Nurse,Morning,655,After patient contact,,No,No
+Medical,Medical doctor,Morning,656,After patient contact,,No,No
+Medical,Nurse,Morning,657,After patient contact,,No,No
+Medical,Nurse,Morning,658,Before patient contact,,Yes,No
+Medical,Nurse,Morning,659,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Morning,660,After contact with patient Surroundings,,No,No
+Medical,Nurse,Morning,661,Before patient contact,,Yes,No
+Medical,Nurse,Morning,662,Before patient contact,,Yes,No
+Medical,Nurse,Morning,663,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Morning,664,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,665,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,666,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,667,Before patient contact,,Yes,No
+Medical,Medical doctor,Morning,668,After patient contact,,No,No
+Medical,Nurse,Morning,669,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,670,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Morning,671,After patient contact,HW (hand wash),,Yes
+Medical,Medical doctor,Morning,672,After contact with patient Surroundings,,No,No
+Medical,Nurse,Morning,673,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Morning,674,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Morning,675,After body fluid exposure,HW (hand wash),,Yes
+Medical,Medical doctor,Morning,676,Before patient contact,,No,No
+Medical,Nurse,Morning,677,After patient contact,HW (hand wash),,Yes
+Medical,Nurse,Morning,678,After patient contact,HW (hand wash),,Yes
+Medical,Nurse,Morning,679,After patient contact,,No,No
+Medical,Medical doctor,Morning,680,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,681,Before patient contact,,Yes,No
+Medical,Nurse,After noon,682,Before patient contact,,Yes,No
+Medical,Nurse,After noon,683,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,After noon,684,After patient contact,,No,No
+Medical,Nurse,After noon,685,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,686,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,687,After patient contact,,No,No
+Medical,Medical doctor,After noon,688,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,689,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,690,After contact with patient Surroundings,,No,No
+Medical,Nurse,After noon,691,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,After noon,692,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,693,Before an aseptic procedure,HW (hand wash),,Yes
+Medical,Nurse,After noon,694,Before patient contact,,Yes,No
+Medical,Nurse,After noon,695,Before an aseptic procedure,HW (hand wash),,Yes
+Medical,Medical doctor,After noon,696,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,After noon,697,After patient contact,,No,No
+Medical,Nurse,After noon,698,After patient contact,HW (hand wash),,Yes
+Medical,Nurse,After noon,699,Before patient contact,,Yes,No
+Medical,Medical doctor,After noon,700,After contact with patient Surroundings,,No,No
+Medical,Nurse,Night,701,Before patient contact,,Yes,No
+Medical,Nurse,Night,702,Before patient contact,,Yes,No
+Medical,Nurse,Night,703,Before patient contact,,Yes,No
+Medical,Medical doctor,Night,704,Before patient contact,,Yes,No
+Medical,Nurse,Night,705,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Night,706,Before an aseptic procedure,HW (hand wash),,Yes
+Medical,Nurse,Night,707,Before an aseptic procedure,,Yes,No
+Medical,Medical doctor,Night,708,After contact with patient Surroundings,,No,No
+Medical,Nurse,Night,709,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Night,710,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Night,711,After patient contact,HW (hand wash),,Yes
+Medical,Medical doctor,Night,712,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Night,713,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Night,714,Before patient contact,,Yes,No
+Medical,Nurse,Night,715,After body fluid exposure,HW (hand wash),,Yes
+Medical,Medical doctor,Night,716,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,Night,717,After contact with patient Surroundings,,No,No
+Medical,Nurse,Night,718,Before an aseptic procedure,,Yes,No
+Medical,Nurse,Night,719,After contact with patient Surroundings,,No,No
+Medical,Medical doctor,Night,720,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,721,Before patient contact,,No,No
+Surgical,Nurse,Morning,722,Before an aseptic procedure,,No,No
+Surgical,Nurse,Morning,723,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,Morning,724,Before an aseptic procedure,,No,No
+Surgical,Nurse,Morning,725,After patient contact,,No,No
+Surgical,Nurse,Night,726,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,727,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Night,728,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,729,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,730,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,731,After patient contact,,No,No
+Surgical,Medical doctor,Night,732,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,733,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,734,Before patient contact,,No,No
+Surgical,Nurse,Night,735,After contact with patient Surroundings,,No,No
+Surgical,Medical doctor,Night,736,Before patient contact,,Yes,No
+Surgical,Nurse,Night,737,After patient contact,,No,No
+Surgical,Nurse,Night,738,After body fluid exposure,,No,No
+Surgical,Nurse,Night,739,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Medical doctor,Night,740,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,741,Before an aseptic procedure,,No,No
+Surgical,Nurse,Night,742,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,743,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,744,After body fluid exposure,HW (hand wash),,Yes
+Surgical,Nurse,Night,745,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,746,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,747,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,748,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,749,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,750,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,751,Before patient contact,,Yes,No
+Surgical,Nurse,Night,752,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,753,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,754,Before an aseptic procedure,,No,No
+Surgical,Nurse,Night,755,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,756,After patient contact,,No,No
+Surgical,Nurse,Night,757,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,758,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,759,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,760,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,761,After body fluid exposure,,No,No
+Surgical,Nurse,Morning,762,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,763,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,764,Before an aseptic procedure,,No,No
+Surgical,Nurse,Night,765,After body fluid exposure,HR (hand rub),,Yes
+Surgical,Nurse,Night,766,After patient contact,,No,No
+Surgical,Nurse,Night,767,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Night,768,Before an aseptic procedure,,No,No
+Surgical,Medical doctor,Night,769,Before an aseptic procedure,,No,No
+Surgical,Nurse,Night,770,After contact with patient Surroundings,,No,No
+Surgical,Nurse,Morning,771,Before patient contact,,Yes,No
+Paediatric,Medical doctor,Night,772,Before patient contact,,No,No
+Paediatric,Nurse,Night,773,Before patient contact,,Yes,No
+Paediatric,Medical doctor,Night,774,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,775,After patient contact,,No,No
+Paediatric,Nurse,Night,776,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,777,Before patient contact,HR (hand rub),,Yes
+Paediatric,Medical doctor,Night,778,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Night,779,Before patient contact,,No,No
+Paediatric,Medical doctor,Night,780,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Night,781,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,782,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Night,783,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,784,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,785,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,786,After patient contact,,No,No
+Paediatric,Nurse,Morning,788,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,788,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,789,Before patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,790,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,791,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Morning,792,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,793,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,794,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,795,Before patient contact,,No,No
+Ob/Gyn,Midwife,After noon,796,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,797,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,After noon,798,After patient contact,,No,No
+Ob/Gyn,Midwife,After noon,799,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,800,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,After noon,801,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,802,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,After noon,803,After patient contact,,No,No
+Ob/Gyn,Midwife,After noon,804,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,After noon,805,After body fluid exposure,HR (hand rub),,Yes
+Ob/Gyn,Midwife,Night,806,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Night,807,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Night,808,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Night,809,After patient contact,,No,No
+Ob/Gyn,Midwife,Night,810,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Night,811,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Night,812,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Night,813,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,Night,814,After patient contact,,No,No
+Ob/Gyn,Medical doctor,Night,815,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,Night,816,After body fluid exposure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,817,After patient contact,,No,No
+Ob/Gyn,Medical doctor,After noon,818,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Medical doctor,After noon,819,After patient contact,,No,No
+Ob/Gyn,Midwife,After noon,820,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,821,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,Night,822,After patient contact,,No,No
+Ob/Gyn,Midwife,After noon,823,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,After noon,824,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Night,825,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,826,After patient contact,HR (hand rub),,Yes
+Medical,Nurse,After noon,827,Before patient contact,,Yes,No
+Medical,Nurse,After noon,828,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,829,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,830,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,831,After body fluid exposure,HW (hand wash),,Yes
+Medical,Nurse,After noon,832,After patient contact,,No,No
+Medical,Nurse,After noon,833,After patient contact,,No,No
+Medical,Nurse,After noon,834,After patient contact,,No,No
+Medical,Nurse,After noon,835,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,836,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,837,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,838,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,839,Before an aseptic procedure,,Yes,No
+Medical,Nurse,After noon,840,Before patient contact,,Yes,No
+Medical,Nurse,After noon,841,After contact with patient Surroundings,,No,No
+Medical,Nurse,Morning,842,After patient contact,HW (hand wash),,Yes
+Medical,Nurse,Morning,843,After patient contact,,No,No
+Ob/Gyn,Midwife,Morning,844,Before patient contact,,No,No
+Ob/Gyn,Midwife,Morning,845,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Morning,846,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,Morning,847,After patient contact,,No,No
+Ob/Gyn,Midwife,Morning,848,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,849,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,850,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Morning,851,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,Morning,852,After patient contact,,No,No
+Ob/Gyn,Midwife,Morning,853,After contact with patient Surroundings,,No,No
+Ob/Gyn,Nurse,After noon,854,Before patient contact,,Yes,No
+Ob/Gyn,Nurse,After noon,855,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Nurse,After noon,856,After body fluid exposure,,Yes,No
+Ob/Gyn,Nurse,After noon,857,After patient contact,,Yes,No
+Ob/Gyn,Midwife,After noon,858,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,After noon,859,After body fluid exposure,HW (hand wash),,Yes
+Ob/Gyn,Midwife,After noon,860,After patient contact,,No,No
+Paediatric,Nurse,Morning,861,Before patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,862,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,863,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,864,Before patient contact,,No,No
+Paediatric,Nurse,Morning,865,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,866,Before patient contact,,No,No
+Paediatric,Nurse,Morning,867,Before an aseptic procedure,,No,No
+Paediatric,Nurse,Morning,868,Before patient contact,,No,No
+Paediatric,Nurse,After noon,869,Before patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,After noon,870,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,After noon,871,Before patient contact,,No,No
+Paediatric,Nurse,After noon,872,After patient contact,,No,No
+Paediatric,Nurse,After noon,873,Before patient contact,,Yes,No
+Paediatric,Nurse,After noon,874,After body fluid exposure,,No,No
+Paediatric,Nurse,After noon,875,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,876,After patient contact,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,877,After patient contact,,No,No
+Paediatric,Nurse,Morning,878,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,879,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,880,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,881,Before patient contact,,Yes,No
+Paediatric,Nurse,After noon,882,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,After noon,883,Before patient contact,,Yes,No
+Paediatric,Nurse,After noon,884,After body fluid exposure,,No,No
+Paediatric,Nurse,After noon,885,After body fluid exposure,HW (hand wash),,Yes
+Paediatric,Nurse,Night,886,Before an aseptic procedure,,No,No
+Paediatric,Nurse,Night,887,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,888,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Night,889,Before patient contact,,Yes,No
+Paediatric,Nurse,Night,890,After contact with patient Surroundings,,No,No
+Ob/Gyn,Midwife,Morning,891,Before patient contact,,Yes,No
+Ob/Gyn,Midwife,Morning,892,Before an aseptic procedure,,Yes,No
+Ob/Gyn,Midwife,Morning,893,After body fluid exposure,,Yes,No
+Ob/Gyn,Midwife,After noon,894,After patient contact,,No,No
+Ob/Gyn,Midwife,After noon,895,After contact with patient Surroundings,,No,No
+Paediatric,Medical doctor,Morning,896,Before patient contact,,No,No
+Paediatric,Nurse,Morning,897,Before patient contact,,No,No
+Paediatric,Other,Morning,898,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,899,Before an aseptic procedure,,Yes,No
+Paediatric,Other,Morning,900,Before an aseptic procedure,,Yes,No
+Paediatric,Medical doctor,Morning,901,Before patient contact,,No,No
+Paediatric,Nurse,Morning,902,Before patient contact,,No,No
+Paediatric,Medical doctor,Morning,903,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,904,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,905,After body fluid exposure,,No,No
+Paediatric,Nurse,Morning,906,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,907,Before patient contact,,No,No
+Paediatric,Nurse,Morning,908,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,909,Before an aseptic procedure,,Yes,No
+Paediatric,Nurse,Morning,910,Before an aseptic procedure,HW (hand wash),,Yes
+Paediatric,Nurse,Morning,911,Before patient contact,,No,No
+Paediatric,Nurse,Morning,912,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,913,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,914,After patient contact,HR (hand rub),,Yes
+Paediatric,Nurse,Morning,915,After contact with patient Surroundings,,No,No
+Paediatric,Nurse,Morning,916,Before patient contact,,Yes,No
+Paediatric,Nurse,Morning,917,After contact with patient Surroundings,,No,No
